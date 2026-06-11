@@ -1,4 +1,4 @@
-#All Experiment headings 
+#All Experiment headings  
 Experiment 1 = Create a master page using HTML, CSS And bootstrap with home, about us, contact us page
 Experiment 2 = Create login  & up pages using HTML, CSS and bootstrap with validation
 Experiment 3 = Designe a login  & sign up page and display the entered values using inheritance
