@@ -1,0 +1,45 @@
+﻿@model IEnumerable<Experiment11_MVC.Models.Product>
+
+@{
+    ViewBag.Title = "Electronic Mart";
+}
+
+<div class="jumbotron" style="background:#2c3e50; color:white; padding: 30px; margin-top: 20px;">
+    <h2>⚡ Electronic Mart - Inventory Management</h2>
+    <p></p>
+</div>
+
+<div class="container">
+    <table class="table table-striped table-hover border">
+        <thead class="thead-dark" style="background:#34495e; color:white;">
+            <tr>
+                <th>Product ID</th>
+                <th>Item Name</th>
+                <th>Category</th>
+                <th>Price (INR)</th>
+                <th>Stock Status</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@item.ProductID</td>
+                    <td><strong>@item.ProductName</strong></td>
+                    <td>@item.Category</td>
+                    <td>₹@item.Price.ToString("N2")</td>
+                    <td>
+                        @if (item.Status == "In Stock")
+                        {
+                            <span class="label label-success" style="background:#27ae60; padding:5px; border-radius:3px; color:white;">@item.Status</span>
+                        }
+                        else
+                        {
+                            <span class="label label-danger" style="background:#e74c3c; padding:5px; border-radius:3px; color:white;">@item.Status</span>
+                        }
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

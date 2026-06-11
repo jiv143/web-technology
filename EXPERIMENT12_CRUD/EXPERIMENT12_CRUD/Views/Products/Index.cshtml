@@ -1,0 +1,42 @@
+﻿@model IEnumerable<EXPERIMENT12_CRUD.Models.Product>
+
+@{
+    ViewBag.Title = "Electronic Mart - Inventory";
+}
+
+<div class="container" style="margin-top:30px;">
+    <h2 class="text-primary text-center">Electronic Mart Inventory</h2>
+    <hr />
+
+    <p>
+        @Html.ActionLink("Add New Product", "Create", null, new { @class = "btn btn-success shadow-sm" })
+    </p>
+
+    <table class="table table-hover table-bordered shadow-sm">
+        <thead class="bg-primary text-white">
+            <tr>
+                <th>Product Name</th>
+                <th>Category</th>
+                <th>Price (₹)</th>
+                <th>Stock</th>
+                <th>Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td style="font-weight:bold">@item.ProductName</td>
+                    <td><span class="badge bg-info text-dark">@item.Category</span></td>
+                    <td class="text-success">@item.Price.ToString("C")</td>
+                    <td>@item.StockQuantity</td>
+                    <td>
+                        @Html.ActionLink("Edit", "Edit", new { id = item.ProductID }, new { @class = "btn btn-sm btn-outline-warning" })
+                        @Html.ActionLink("Details", "Details", new { id = item.ProductID }, new { @class = "btn btn-sm btn-outline-info" })
+                        @Html.ActionLink("Delete", "Delete", new { id = item.ProductID }, new { @class = "btn btn-sm btn-outline-danger" })
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

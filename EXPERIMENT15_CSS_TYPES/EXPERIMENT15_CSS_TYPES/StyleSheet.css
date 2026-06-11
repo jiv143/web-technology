@@ -1,0 +1,35 @@
+﻿/* File Name: StyleSheet.css */
+body {
+    background-color: #f0f2f5;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.external-card {
+    background: #ffffff;
+    width: 380px;
+    padding: 40px;
+    border-radius: 20px;
+    box-shadow: 0 15px 35px rgba(0,0,0,0.1);
+    text-align: center;
+    border-top: 10px solid #6c5ce7;
+}
+
+.btn-external {
+    background-color: #6c5ce7;
+    color: white;
+    border: none;
+    padding: 12px 30px;
+    border-radius: 8px;
+    font-weight: 600;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+    .btn-external:hover {
+        background-color: #a29bfe;
+    }

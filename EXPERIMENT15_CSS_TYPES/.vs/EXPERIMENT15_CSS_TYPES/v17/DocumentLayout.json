@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jivan\\OneDrive\\Desktop\\wt\\EXPERIMENT15_CSS_TYPES\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DDAF832A-D7A6-4BC3-A2B1-B364C192A779}|EXPERIMENT15_CSS_TYPES\\EXPERIMENT15_CSS_TYPES.csproj|C:\\Users\\jivan\\OneDrive\\Desktop\\wt\\EXPERIMENT15_CSS_TYPES\\experiment15_css_types\\stylesheet.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{DDAF832A-D7A6-4BC3-A2B1-B364C192A779}|EXPERIMENT15_CSS_TYPES\\EXPERIMENT15_CSS_TYPES.csproj|solutionrelative:experiment15_css_types\\stylesheet.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDAF832A-D7A6-4BC3-A2B1-B364C192A779}|EXPERIMENT15_CSS_TYPES\\EXPERIMENT15_CSS_TYPES.csproj|c:\\users\\jivan\\onedrive\\desktop\\wt\\experiment15_css_types\\experiment15_css_types\\externalstyle.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{DDAF832A-D7A6-4BC3-A2B1-B364C192A779}|EXPERIMENT15_CSS_TYPES\\EXPERIMENT15_CSS_TYPES.csproj|solutionrelative:experiment15_css_types\\externalstyle.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDAF832A-D7A6-4BC3-A2B1-B364C192A779}|EXPERIMENT15_CSS_TYPES\\EXPERIMENT15_CSS_TYPES.csproj|C:\\Users\\jivan\\OneDrive\\Desktop\\wt\\EXPERIMENT15_CSS_TYPES\\experiment15_css_types\\internalstyle.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{DDAF832A-D7A6-4BC3-A2B1-B364C192A779}|EXPERIMENT15_CSS_TYPES\\EXPERIMENT15_CSS_TYPES.csproj|solutionrelative:experiment15_css_types\\internalstyle.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDAF832A-D7A6-4BC3-A2B1-B364C192A779}|EXPERIMENT15_CSS_TYPES\\EXPERIMENT15_CSS_TYPES.csproj|C:\\Users\\jivan\\OneDrive\\Desktop\\wt\\EXPERIMENT15_CSS_TYPES\\experiment15_css_types\\inlinestyle.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{DDAF832A-D7A6-4BC3-A2B1-B364C192A779}|EXPERIMENT15_CSS_TYPES\\EXPERIMENT15_CSS_TYPES.csproj|solutionrelative:experiment15_css_types\\inlinestyle.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDAF832A-D7A6-4BC3-A2B1-B364C192A779}|EXPERIMENT15_CSS_TYPES\\EXPERIMENT15_CSS_TYPES.csproj|C:\\Users\\jivan\\OneDrive\\Desktop\\wt\\EXPERIMENT15_CSS_TYPES\\experiment15_css_types\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDAF832A-D7A6-4BC3-A2B1-B364C192A779}|EXPERIMENT15_CSS_TYPES\\EXPERIMENT15_CSS_TYPES.csproj|solutionrelative:experiment15_css_types\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Global.asax.cs",
+              "DocumentMoniker": "C:\\Users\\jivan\\OneDrive\\Desktop\\wt\\EXPERIMENT15_CSS_TYPES\\EXPERIMENT15_CSS_TYPES\\Global.asax.cs",
+              "RelativeDocumentMoniker": "EXPERIMENT15_CSS_TYPES\\Global.asax.cs",
+              "ToolTip": "C:\\Users\\jivan\\OneDrive\\Desktop\\wt\\EXPERIMENT15_CSS_TYPES\\EXPERIMENT15_CSS_TYPES\\Global.asax.cs",
+              "RelativeToolTip": "EXPERIMENT15_CSS_TYPES\\Global.asax.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T10:12:41.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ExternalStyle.aspx",
+              "DocumentMoniker": "C:\\Users\\jivan\\OneDrive\\Desktop\\wt\\EXPERIMENT15_CSS_TYPES\\EXPERIMENT15_CSS_TYPES\\ExternalStyle.aspx",
+              "RelativeDocumentMoniker": "EXPERIMENT15_CSS_TYPES\\ExternalStyle.aspx",
+              "ToolTip": "C:\\Users\\jivan\\OneDrive\\Desktop\\wt\\EXPERIMENT15_CSS_TYPES\\EXPERIMENT15_CSS_TYPES\\ExternalStyle.aspx",
+              "RelativeToolTip": "EXPERIMENT15_CSS_TYPES\\ExternalStyle.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-04-23T09:59:25.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InternalStyle.aspx",
+              "DocumentMoniker": "C:\\Users\\jivan\\OneDrive\\Desktop\\wt\\EXPERIMENT15_CSS_TYPES\\EXPERIMENT15_CSS_TYPES\\InternalStyle.aspx",
+              "RelativeDocumentMoniker": "EXPERIMENT15_CSS_TYPES\\InternalStyle.aspx",
+              "ToolTip": "C:\\Users\\jivan\\OneDrive\\Desktop\\wt\\EXPERIMENT15_CSS_TYPES\\EXPERIMENT15_CSS_TYPES\\InternalStyle.aspx",
+              "RelativeToolTip": "EXPERIMENT15_CSS_TYPES\\InternalStyle.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-04-23T09:59:01.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InlineStyle.aspx",
+              "DocumentMoniker": "C:\\Users\\jivan\\OneDrive\\Desktop\\wt\\EXPERIMENT15_CSS_TYPES\\EXPERIMENT15_CSS_TYPES\\InlineStyle.aspx",
+              "RelativeDocumentMoniker": "EXPERIMENT15_CSS_TYPES\\InlineStyle.aspx",
+              "ToolTip": "C:\\Users\\jivan\\OneDrive\\Desktop\\wt\\EXPERIMENT15_CSS_TYPES\\EXPERIMENT15_CSS_TYPES\\InlineStyle.aspx",
+              "RelativeToolTip": "EXPERIMENT15_CSS_TYPES\\InlineStyle.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-04-23T09:58:29.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StyleSheet.css",
+              "DocumentMoniker": "C:\\Users\\jivan\\OneDrive\\Desktop\\wt\\EXPERIMENT15_CSS_TYPES\\EXPERIMENT15_CSS_TYPES\\StyleSheet.css",
+              "RelativeDocumentMoniker": "EXPERIMENT15_CSS_TYPES\\StyleSheet.css",
+              "ToolTip": "C:\\Users\\jivan\\OneDrive\\Desktop\\wt\\EXPERIMENT15_CSS_TYPES\\EXPERIMENT15_CSS_TYPES\\StyleSheet.css",
+              "RelativeToolTip": "EXPERIMENT15_CSS_TYPES\\StyleSheet.css",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAcwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-04-23T09:57:28.383Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

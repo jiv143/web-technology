@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jivan\\OneDrive\\Desktop\\wt\\Experiment10_WebService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AD258C03-5D96-4B2F-BFCA-6DBCBEBCAA05}|Experiment10_WebService\\Experiment10_WebService.csproj|c:\\users\\jivan\\onedrive\\desktop\\wt\\experiment10_webservice\\experiment10_webservice\\exchangeui.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{AD258C03-5D96-4B2F-BFCA-6DBCBEBCAA05}|Experiment10_WebService\\Experiment10_WebService.csproj|solutionrelative:experiment10_webservice\\exchangeui.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD258C03-5D96-4B2F-BFCA-6DBCBEBCAA05}|Experiment10_WebService\\Experiment10_WebService.csproj|C:\\Users\\jivan\\OneDrive\\Desktop\\wt\\Experiment10_WebService\\experiment10_webservice\\exchangeui.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD258C03-5D96-4B2F-BFCA-6DBCBEBCAA05}|Experiment10_WebService\\Experiment10_WebService.csproj|solutionrelative:experiment10_webservice\\exchangeui.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD258C03-5D96-4B2F-BFCA-6DBCBEBCAA05}|Experiment10_WebService\\Experiment10_WebService.csproj|C:\\Users\\jivan\\OneDrive\\Desktop\\wt\\Experiment10_WebService\\experiment10_webservice\\globalservice.asmx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD258C03-5D96-4B2F-BFCA-6DBCBEBCAA05}|Experiment10_WebService\\Experiment10_WebService.csproj|solutionrelative:experiment10_webservice\\globalservice.asmx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ExchangeUI.aspx",
+              "DocumentMoniker": "C:\\Users\\jivan\\OneDrive\\Desktop\\wt\\Experiment10_WebService\\Experiment10_WebService\\ExchangeUI.aspx",
+              "RelativeDocumentMoniker": "Experiment10_WebService\\ExchangeUI.aspx",
+              "ToolTip": "C:\\Users\\jivan\\OneDrive\\Desktop\\wt\\Experiment10_WebService\\Experiment10_WebService\\ExchangeUI.aspx",
+              "RelativeToolTip": "Experiment10_WebService\\ExchangeUI.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-04-22T06:28:19.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ExchangeUI.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\jivan\\OneDrive\\Desktop\\wt\\Experiment10_WebService\\Experiment10_WebService\\ExchangeUI.aspx.cs",
+              "RelativeDocumentMoniker": "Experiment10_WebService\\ExchangeUI.aspx.cs",
+              "ToolTip": "C:\\Users\\jivan\\OneDrive\\Desktop\\wt\\Experiment10_WebService\\Experiment10_WebService\\ExchangeUI.aspx.cs",
+              "RelativeToolTip": "Experiment10_WebService\\ExchangeUI.aspx.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAIwBIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T06:31:03.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GlobalService.asmx.cs",
+              "DocumentMoniker": "C:\\Users\\jivan\\OneDrive\\Desktop\\wt\\Experiment10_WebService\\Experiment10_WebService\\GlobalService.asmx.cs",
+              "RelativeDocumentMoniker": "Experiment10_WebService\\GlobalService.asmx.cs",
+              "ToolTip": "C:\\Users\\jivan\\OneDrive\\Desktop\\wt\\Experiment10_WebService\\Experiment10_WebService\\GlobalService.asmx.cs",
+              "RelativeToolTip": "Experiment10_WebService\\GlobalService.asmx.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAADwvxcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T06:25:05.061Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jivan\\OneDrive\\Desktop\\wt\\Experiment11_MVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D64BBB19-32DC-41BD-A2CC-44161D7EAADE}|Experiment11_MVC\\Experiment11_MVC.csproj|C:\\Users\\jivan\\OneDrive\\Desktop\\wt\\Experiment11_MVC\\experiment11_mvc\\views\\mart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D64BBB19-32DC-41BD-A2CC-44161D7EAADE}|Experiment11_MVC\\Experiment11_MVC.csproj|solutionrelative:experiment11_mvc\\views\\mart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D64BBB19-32DC-41BD-A2CC-44161D7EAADE}|Experiment11_MVC\\Experiment11_MVC.csproj|c:\\users\\jivan\\onedrive\\desktop\\wt\\experiment11_mvc\\experiment11_mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D64BBB19-32DC-41BD-A2CC-44161D7EAADE}|Experiment11_MVC\\Experiment11_MVC.csproj|solutionrelative:experiment11_mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D64BBB19-32DC-41BD-A2CC-44161D7EAADE}|Experiment11_MVC\\Experiment11_MVC.csproj|c:\\users\\jivan\\onedrive\\desktop\\wt\\experiment11_mvc\\experiment11_mvc\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D64BBB19-32DC-41BD-A2CC-44161D7EAADE}|Experiment11_MVC\\Experiment11_MVC.csproj|solutionrelative:experiment11_mvc\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D64BBB19-32DC-41BD-A2CC-44161D7EAADE}|Experiment11_MVC\\Experiment11_MVC.csproj|C:\\Users\\jivan\\OneDrive\\Desktop\\wt\\Experiment11_MVC\\experiment11_mvc\\controllers\\martcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D64BBB19-32DC-41BD-A2CC-44161D7EAADE}|Experiment11_MVC\\Experiment11_MVC.csproj|solutionrelative:experiment11_mvc\\controllers\\martcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\jivan\\OneDrive\\Desktop\\wt\\Experiment11_MVC\\Experiment11_MVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Experiment11_MVC\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\jivan\\OneDrive\\Desktop\\wt\\Experiment11_MVC\\Experiment11_MVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Experiment11_MVC\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAzwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T12:20:12.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\jivan\\OneDrive\\Desktop\\wt\\Experiment11_MVC\\Experiment11_MVC\\Views\\Mart\\Index.cshtml",
+              "RelativeDocumentMoniker": "Experiment11_MVC\\Views\\Mart\\Index.cshtml",
+              "ToolTip": "C:\\Users\\jivan\\OneDrive\\Desktop\\wt\\Experiment11_MVC\\Experiment11_MVC\\Views\\Mart\\Index.cshtml",
+              "RelativeToolTip": "Experiment11_MVC\\Views\\Mart\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-22T07:12:10.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MartController.cs",
+              "DocumentMoniker": "C:\\Users\\jivan\\OneDrive\\Desktop\\wt\\Experiment11_MVC\\Experiment11_MVC\\Controllers\\MartController.cs",
+              "RelativeDocumentMoniker": "Experiment11_MVC\\Controllers\\MartController.cs",
+              "ToolTip": "C:\\Users\\jivan\\OneDrive\\Desktop\\wt\\Experiment11_MVC\\Experiment11_MVC\\Controllers\\MartController.cs",
+              "RelativeToolTip": "Experiment11_MVC\\Controllers\\MartController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T07:06:01.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\jivan\\OneDrive\\Desktop\\wt\\Experiment11_MVC\\Experiment11_MVC\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Experiment11_MVC\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\jivan\\OneDrive\\Desktop\\wt\\Experiment11_MVC\\Experiment11_MVC\\Models\\Product.cs",
+              "RelativeToolTip": "Experiment11_MVC\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T07:03:30.137Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
